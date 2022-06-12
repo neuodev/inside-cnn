@@ -3,6 +3,7 @@
 How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 
 ## Example of a `snail` image propagated throw the `VGG` network
+![Snail](./snail.jpg)
 
 ### 1st Layer
 
