@@ -1,6 +1,6 @@
 # Inside CNN
 
-How to visualize filters and feature Maps in Convolutional Neural Networks (CVV)
+How to visualize filters and feature Maps in Convolutional Neural Networks (CNN)
 
 ## Example of a `snail` image propagated throw the `VGG` network
 ![Snail](./snail.jpg)
